@@ -15,7 +15,6 @@ You can use the website to generate badges: https://shields.io/
 - PhotoBatch
 
 ### 🌱 Goals for 2024
-- Complete #100DaysOfCode challenge.
 - Contribute to Open Source.
 - Build 30+ projects.
 
