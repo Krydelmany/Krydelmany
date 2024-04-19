@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 - Robotic
 
 ### 💻 I'm working on
-- My portfolio [website](https://my-website-teal-psi.vercel.app/).
+- My portfolio [website](https://giovaniclaromoraes.vercel.app/).
 - PhotoBatch
 
 ### 🌱 Goals for 2024
