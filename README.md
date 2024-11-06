@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Giovani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-Hi, I'm **Giovani Claro Moraes**, a **Computer Engineering student** 🚀 from Brazil.
+Hi, I'm **Giovani Claro Moraes**, a **Computer Engineering student** 🚀 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
