@@ -1,7 +1,7 @@
 # Hi there, I'm Giovani! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## About Me
-Hi, I'm **Giovani Claro Moraes** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif", a passionate **Computer Engineering student** 🚀 exploring the fascinating world of technology and innovation.
+Hi, I'm **Giovani Claro Moraes**, a passionate **Computer Engineering student** 🚀 exploring the fascinating world of technology and innovation.
 
 ## 🔍 Currently Learning
 - **Quantum Computing**: Diving into the quantum realm of computational possibilities
