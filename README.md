@@ -10,7 +10,8 @@ Hi, I'm **Giovani Claro Moraes**, a passionate **Computer Engineering student** 
 
 ## 💻 Current Projects
 - Personal Portfolio: [Giovani Claro Moraes](https://giovaniclaromoraes.vercel.app/)
-- PhotoBatch: A versatile image processing application
+- Enigma
+- Studye
 
 ## 🎯 Goals for 2024
 - Contribute to Open Source projects
