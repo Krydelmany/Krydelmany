@@ -1,49 +1,39 @@
+# Hi there, I'm Giovani! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### Hi there, I'm Giovani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-Hi, I'm **Giovani Claro Moraes**, a **Computer Engineering student** 🚀 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-<!-- Create a tabular data for blog posts-->
-### ✔️ I'm currently learning
-- Quantum Computing
-- Reverse Engineering
-- Robotic
+## About Me
+Hi, I'm **Giovani Claro Moraes** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif", a passionate **Computer Engineering student** 🚀 exploring the fascinating world of technology and innovation.
 
-### 💻 I'm working on
-- My portfolio [website](https://giovaniclaromoraes.vercel.app/).
-- PhotoBatch
+## 🔍 Currently Learning
+- **Quantum Computing**: Diving into the quantum realm of computational possibilities
+- **Reverse Engineering**: Unraveling the mysteries of software and system architectures
+- **Robotics**: Exploring the intersection of hardware, software, and intelligent systems
 
-### 🌱 Goals for 2024
-- Contribute to Open Source.
-- Build 30+ projects.
+## 💻 Current Projects
+- Personal Portfolio: [Giovani Claro Moraes](https://giovaniclaromoraes.vercel.app/)
+- PhotoBatch: A versatile image processing application
 
-### 💭 Ask me about
+## 🎯 Goals for 2024
+- Contribute to Open Source projects
+- Build 30+ innovative projects
+- Expand my technological horizons
+
+## 💬 Ask Me About
 - Astronomy 🔭
-- Design 🎨
-- Movies🎬
-- and anything...
+- Design and Creative Technologies 🎨
+- Cinematic Arts 🎬
+- Tech Innovation and Emerging Technologies
 
-<!-- 
-### 🌴 Fun facts
-- Trying to explore the mysteries.
-- Congratualtions on making through the shell.-->
+## 🛠️ Languages and Tools
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-
-
-### 🗣 Languages and Tools
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> </a>
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target="_blank">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
-
-
-## Feel free to Connect 👥 with me on
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mrgiovaniii/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrgiovanii)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/33fgGSn8wP)
